@@ -1,0 +1,74 @@
+
+
+title{
+
+  font-size: large;
+
+}
+
+
+
+h2 {
+font-family: 'Montserrat', sans-serif;
+font-size:3rem;
+}
+
+h1 {
+font-family: 'Montserrat', sans-serif;
+
+}
+
+body{
+  background-color:#CFF5E7 ;
+ 
+}
+
+
+#carouselExampleCaptions .carousel-item img{
+
+object-fit: cover;
+object-position: center;
+max-height: 50vh;
+overflow: hidden;
+}
+
+
+
+
+
+
+#carouselExampleCaptions .carousel-item:before{
+
+ content: "";
+ background-image: linear-gradient(to bottom, transparent,rgba(0,0,0,0.5));
+
+display: block;
+position: absolute;
+top:0;
+width:100vw;
+height: 100vh;
+
+
+
+  }
+  
+
+
+
+
+
+.container-fluid_custom{
+
+  padding: 3% 7%;
+  
+  }
+
+
+  .container-fluid_custom2{
+
+    padding: 10% 20% 10% 20%;
+    
+    }
+  
+ 
+    
