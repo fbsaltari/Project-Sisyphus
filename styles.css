@@ -56,7 +56,7 @@ height: 100vh;
 
 .container-fluid_custom{
 
-  padding: 3% 7%;
+  padding: 3% 7%; color:whitesmoke
   
   }
 
@@ -64,6 +64,7 @@ height: 100vh;
   .container-fluid_custom2{
 
     padding: 10% 20% 10% 20%;
+    color:whitesmoke
     
     }
   
